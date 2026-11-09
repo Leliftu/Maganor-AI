@@ -1,0 +1,32 @@
+notebooks/
+
+maganor_research.ipynb
+Research writing
+
+This notebook contains your written research:
+1. Project introduction
+2. Research question and objectives
+3. Dataset description
+4. Data exploration
+5. Methodology
+6. Model development
+7. Results and model comparison
+8. Discussion of findings
+9. Limitations and ethical considerations
+10. Conclusion
+11. Abstract
+    
+    maganor_experiments.ipynb
+    Python experiments
+    
+    This notebook contains your actual Python code:
+12. Importing libraries
+13. Loading the dataset
+14. Data cleaning and exploration
+15. Visualizations
+16. TF-IDF and Logistic Regression
+17. DistilBERT (128 tokens)
+18. DistilBERT (256 tokens)
+19. Model evaluation
+20. False-positive and false-negative analysis
+21. Final model comparison
